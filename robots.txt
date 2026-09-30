@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ad18067.github.io/NOVA-Golf-Club/sitemap.xml
